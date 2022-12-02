@@ -3,9 +3,9 @@
 
 using namespace std;
 
-int helloworld(string input)
+int awesomeSause()
 {
-  cout << input;
+  cout << "amazing";
 }
 
 
