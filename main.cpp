@@ -3,7 +3,10 @@
 
 using namespace std;
 
-
+int helloworld(string input)
+{
+  cout << input;
+}
 
 
 int main ()
