@@ -3,9 +3,9 @@
 
 using namespace std;
 
-int deductHealth (int health)
+int helloworld(string input)
 {
-  return health -= 10;
+  cout << input;
 }
 
 
